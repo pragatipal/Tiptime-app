@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tip Time</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="poor_0">Poor (0%)</string>
+    <string name="average_5">Average (5%)</string>
+    <string name="good_10">Good (10%)</string>
+    <string name="very_good_15">Very Good (15%)</string>
+    <string name="excellent_20">Excellent (20%)</string>
+    <string name="service_question">How did you like your service?</string>
+    <string name="string_total_bill_amount" />
+    <string name="total_bill_amount">Total Bill Amount</string>
+    <string name="round_off_tip_amount">Round off tip?</string>
+    <string name="tip_amount">Tip Amount :%s</string>
+</resources>
